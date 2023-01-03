@@ -2,7 +2,7 @@
 
 ![Gameplay footage](rUins.gif)
 
-A platformer by me and [Emma Masseteau](https://github.com/Elmea) made fully in Blueprints on Unreal Engine 4.27.2.
+A platformer by me and [Nino Masseteau](https://github.com/Elmea) made fully in Blueprints on Unreal Engine 4.27.2. for a student project from Isart Digital.
 
 You play as a fox discovering elden cubic ruins in an enchanted forest.
 
